@@ -49,7 +49,10 @@ Enter a number to check if it is a prime number: 14
 
 
 Enter a number to check if it is a prime number: 4
-4 is not a Prime Number.
+21 is not a Prime Number.
+
+Enter a number to check if it is a prime number: 4
+3 is a Prime Number.
 
 
 */
