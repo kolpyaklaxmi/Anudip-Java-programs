@@ -37,7 +37,7 @@ public class Inheritance1  {
 /*  output:
 
 I am  Laxmi  . I am  21 year old 
-vaishnavi is studing in grade A
+Laxmi  is studing in grade A
 
 
 */
