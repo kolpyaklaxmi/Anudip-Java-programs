@@ -6,7 +6,7 @@
 // parent class 
 
 class Parent {
-    String name ="vaishnavi ";
+    String name ="Laxmi ";
     int age = 21;
 
     void  speak(){
@@ -36,7 +36,7 @@ public class Inheritance1  {
 
 /*  output:
 
-I am  vaishnavi . I am  21 year old 
+I am  Laxmi  . I am  21 year old 
 vaishnavi is studing in grade A
 
 
