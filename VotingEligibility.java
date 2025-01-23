@@ -27,7 +27,7 @@ public class VotingEligibility {
 /*
  output:
 
-Enter your age: 20
+Enter your age: 29
 You are eligible to vote.
 
 Enter your age: 17
