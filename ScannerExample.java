@@ -41,13 +41,14 @@ class ScannerExample{
 Output:
 
 Enter Employee ID: 1
-Enter Employee Name: vaishnavi
-Enter Employee Address: west mangalwar peth 
+Enter Employee Name: Laxmi
+Enter Employee Address: Shastri Nagar, Solapur.
 Enter Employee Salary: 1000000
 
 Employee Details:
 ID: 1
-Name: vaishnavi
-Address: west mangalwar peth
+Name: Laxmi
+Address: Shastri Nagar, Solapur.
+Enter Employee Salary: 1000000
 Salary: 1000000.0
 */
