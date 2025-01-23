@@ -20,7 +20,7 @@ class Vehicle {
 // Child class
 class Car extends Vehicle {
     // Additional attribute
-    String color="Blue ";
+    String color="Red ";
 
     // Additional method
      void honk() {
@@ -40,7 +40,7 @@ public class Inheritance2 {
 /* output :
 
 The  Tata  Nexon (2025) is driving.
-The Blue   Tata  Nexon is honking: Beep! Beep!
+The Red  Tata  Nexon is honking: Beep! Beep!
 
 
 
